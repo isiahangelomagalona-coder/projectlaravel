@@ -1,9 +1,11 @@
 # Task Manager (Laravel)
 
 Project Code: WST21-PM-2026-SF
-Student Name: Calvo Shinji lei
-Course & Year: BSIT, [your year level]
-Database Used: MySQL (or SQLite — update to match what you actually configured)
+
+Student Name: MAGALONA,ISIAH ANGELO R.
+
+Course & Year: BSIT2
+Database Used: MySQL
 
 ## Features
 - Add Task
@@ -20,4 +22,4 @@ Database Used: MySQL (or SQLite — update to match what you actually configured
 5. Run `php artisan serve` and visit `http://127.0.0.1:8000`.
 
 ## Screenshots
-(coming because its not done yet)
+
